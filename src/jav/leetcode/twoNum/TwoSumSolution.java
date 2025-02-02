@@ -1,4 +1,4 @@
-package jav.leetcode.twonum;
+package jav.leetcode.twoNum;
 
 import java.util.Arrays;
 
