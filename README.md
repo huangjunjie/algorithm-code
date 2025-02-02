@@ -1,13 +1,11 @@
 # Algorithm Code
 
----
 ![GitHub License](https://img.shields.io/github/license/huangjunjie/algorithm_code)
 
 This Collection is target for solve and collect algorithm question.
 
 ## Leet Code
 
----
 
 - LeetCode 热题 100
 
