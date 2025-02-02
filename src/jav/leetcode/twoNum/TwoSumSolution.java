@@ -13,6 +13,15 @@ public class TwoSumSolution {
         System.out.println(Arrays.toString(t.twoSum(nums, target)));
     }
 
+    /**
+     * Given an array of strings strs, group the anagrams together. You can return the answer in any order.
+     * <p>
+     * anagrams : An anagram is a word or phrase formed by rearranging the letters of a different word or phrase, using all the original letters exactly once.
+     *
+     * @param nums
+     * @param target
+     * @return
+     */
     public int[] twoSum(int[] nums, int target) {
         /**
          * Way 1 稀疏Matrix point[num] = sequence;
