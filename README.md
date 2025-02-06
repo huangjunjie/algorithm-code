@@ -16,3 +16,4 @@ This Collection is target for solve and collect algorithm question.
 | Move Zeroes                  | https://leetcode.cn/problems/move-zeroes/description/?envType=study-plan-v2&envId=top-100-liked               | src/jav/moveZeroes                 |
 | Container With Most Water    | https://leetcode.cn/problems/container-with-most-water/description/?envType=study-plan-v2&envId=top-100-liked | src/jav/containerWithMostWater     |
 | Three Sum                    | https://leetcode.cn/problems/3sum/description/?envType=study-plan-v2&envId=top-100-liked                      | src/jav/threeSum                   |
+| Trapping Rain Water          | https://leetcode.cn/problems/trapping-rain-water/description/?envType=study-plan-v2&envId=top-100-liked       | src/jav/trappingRainWater          |
