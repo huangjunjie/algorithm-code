@@ -1,4 +1,4 @@
-package jav.leetcode.longestConsecutiveSequence;
+package leetcode.longestConsecutiveSequence;
 
 
 import java.util.*;

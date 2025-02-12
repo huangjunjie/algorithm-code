@@ -1,4 +1,4 @@
-package jav.leetcode.containerWithMostWater;
+package leetcode.containerWithMostWater;
 
 public class ContainerWithMostWaterSolution {
 

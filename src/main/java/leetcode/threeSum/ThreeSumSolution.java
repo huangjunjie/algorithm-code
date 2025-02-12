@@ -1,4 +1,4 @@
-package jav.leetcode.threeSum;
+package leetcode.threeSum;
 
 import java.util.*;
 import java.util.stream.Collectors;

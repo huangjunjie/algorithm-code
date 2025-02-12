@@ -1,4 +1,4 @@
-package jav.leetcode.trappingRainWater;
+package leetcode.trappingRainWater;
 
 public class TrappingRainWaterSolution {
 

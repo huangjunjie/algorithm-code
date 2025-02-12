@@ -1,4 +1,4 @@
-package jav.leetcode.moveZeroes;
+package leetcode.moveZeroes;
 
 import java.util.Arrays;
 import java.util.LinkedList;
